@@ -1,4 +1,0 @@
-Models,Accuracy,Precision (Fraud),Recall (Fraud),F1-Score (Fraud),ROC-AUC
-Support Vector Machine (LinearSVC),0.981,0.0743,0.8721,0.137,0.9694
-Decision Tree,0.9974,0.3739,0.7674,0.5029,0.8308
-K-Nearest Neighbors,0.9901,0.1344,0.8663,0.2326,0.9344
